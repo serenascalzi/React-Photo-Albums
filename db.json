@@ -1,0 +1,145 @@
+{
+   "albums": [
+      {
+         "id":1,
+         "name":"architecture",
+         "image":"http://serenascalzi.photography/photos/03.jpg"
+      },
+      {
+         "id":2,
+         "name":"landscape",
+         "image":"http://serenascalzi.photography/photos/06.jpg"
+      },
+      {
+         "id":3,
+         "name":"nature",
+         "image":"http://serenascalzi.photography/photos/09.jpg"
+      },
+      {
+         "id":4,
+         "name":"portrait",
+         "image":"http://serenascalzi.photography/photos/12.jpg"
+      },
+      {
+         "id":5,
+         "name":"street",
+         "image":"http://serenascalzi.photography/photos/15.jpg"
+      },
+      {
+         "id":6,
+         "name":"sunset",
+         "image":"http://serenascalzi.photography/photos/18.jpg"
+      }
+   ],
+
+   "photos": [
+      {
+         "id":1,
+         "albumId":1,
+         "image":"http://serenascalzi.photography/photos/01.jpg",
+         "location":"Las Vegas, Nevada"
+      },
+      {
+         "id":2,
+         "albumId":1,
+         "image":"http://serenascalzi.photography/photos/02.jpg",
+         "location":"Henderson, Nevada"
+      },
+      {
+         "id":3,
+         "albumId":1,
+         "image":"http://serenascalzi.photography/photos/03.jpg",
+         "location":"Las Vegas, Nevada"
+      },
+      {
+         "id":4,
+         "albumId":2,
+         "image":"http://serenascalzi.photography/photos/04.jpg",
+         "location":"Las Vegas, Nevada"
+      },
+      {
+         "id":5,
+         "albumId":2,
+         "image":"http://serenascalzi.photography/photos/05.jpg",
+         "location":"Cedar City, Utah"
+      },
+      {
+         "id":6,
+         "albumId":2,
+         "image":"http://serenascalzi.photography/photos/06.jpg",
+         "location":"Mount Charleston, Nevada"
+      },
+      {
+         "id":7,
+         "albumId":3,
+         "image":"http://serenascalzi.photography/photos/07.jpg",
+         "location":"Las Vegas, Nevada"
+      },
+      {
+         "id":8,
+         "albumId":3,
+         "image":"http://serenascalzi.photography/photos/08.jpg",
+         "location":"Las Vegas, Nevada"
+      },
+      {
+         "id":9,
+         "albumId":3,
+         "image":"http://serenascalzi.photography/photos/09.jpg",
+         "location":"Las Vegas, Nevada"
+      },
+      {
+         "id":10,
+         "albumId":4,
+         "image":"http://serenascalzi.photography/photos/10.jpg",
+         "location":"Las Vegas, Nevada"
+      },
+      {
+         "id":11,
+         "albumId":4,
+         "image":"http://serenascalzi.photography/photos/11.jpg",
+         "location":"Las Vegas, Nevada"
+      },
+      {
+         "id":12,
+         "albumId":4,
+         "image":"http://serenascalzi.photography/photos/12.jpg",
+         "location":"Boulder City, Nevada"
+      },
+      {
+         "id":13,
+         "albumId":5,
+         "image":"http://serenascalzi.photography/photos/13.jpg",
+         "location":"Redondo Beach, California"
+      },
+      {
+         "id":14,
+         "albumId":5,
+         "image":"http://serenascalzi.photography/photos/14.jpg",
+         "location":"Los Angeles, California"
+      },
+      {
+         "id":15,
+         "albumId":5,
+         "image":"http://serenascalzi.photography/photos/15.jpg",
+         "location":"Ventura, California"
+      },
+      {
+         "id":16,
+         "albumId":6,
+         "image":"http://serenascalzi.photography/photos/16.jpg",
+         "location":"Oxnard, California"
+      },
+      {
+         "id":17,
+         "albumId":6,
+         "image":"http://serenascalzi.photography/photos/17.jpg",
+         "location":"Henderson, Nevada"
+      },
+      {
+         "id":18,
+         "albumId":6,
+         "image":"http://serenascalzi.photography/photos/18.jpg",
+         "location":"Santa Monica, California"
+      }
+   ]
+}
