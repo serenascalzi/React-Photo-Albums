@@ -3,32 +3,32 @@
       {
          "id":1,
          "name":"architecture",
-         "image":"https://serenascalzi.github.io/03.jpg"
+         "image":"https://serenascalzi.github.io/photography/03.jpg"
       },
       {
          "id":2,
          "name":"landscape",
-         "image":"https://serenascalzi.github.io/06.jpg"
+         "image":"https://serenascalzi.github.io/photography/06.jpg"
       },
       {
          "id":3,
          "name":"nature",
-         "image":"https://serenascalzi.github.io/09.jpg"
+         "image":"https://serenascalzi.github.io/photography/09.jpg"
       },
       {
          "id":4,
          "name":"portrait",
-         "image":"https://serenascalzi.github.io/12.jpg"
+         "image":"https://serenascalzi.github.io/photography/12.jpg"
       },
       {
          "id":5,
          "name":"street",
-         "image":"https://serenascalzi.github.io/15.jpg"
+         "image":"https://serenascalzi.github.io/photography/15.jpg"
       },
       {
          "id":6,
          "name":"sunset",
-         "image":"https://serenascalzi.github.io/18.jpg"
+         "image":"https://serenascalzi.github.io/photography/18.jpg"
       }
    ],
 
@@ -36,109 +36,109 @@
       {
          "id":1,
          "albumId":1,
-         "image":"https://serenascalzi.github.io/01.jpg",
+         "image":"https://serenascalzi.github.io/photography/01.jpg",
          "location":"Las Vegas, Nevada"
       },
       {
          "id":2,
          "albumId":1,
-         "image":"https://serenascalzi.github.io/02.jpg",
+         "image":"https://serenascalzi.github.io/photography/02.jpg",
          "location":"Henderson, Nevada"
       },
       {
          "id":3,
          "albumId":1,
-         "image":"https://serenascalzi.github.io/03.jpg",
+         "image":"https://serenascalzi.github.io/photography/03.jpg",
          "location":"Las Vegas, Nevada"
       },
       {
          "id":4,
          "albumId":2,
-         "image":"https://serenascalzi.github.io/04.jpg",
+         "image":"https://serenascalzi.github.io/photography/04.jpg",
          "location":"Las Vegas, Nevada"
       },
       {
          "id":5,
          "albumId":2,
-         "image":"https://serenascalzi.github.io/05.jpg",
+         "image":"https://serenascalzi.github.io/photography/05.jpg",
          "location":"Cedar City, Utah"
       },
       {
          "id":6,
          "albumId":2,
-         "image":"https://serenascalzi.github.io/06.jpg",
+         "image":"https://serenascalzi.github.io/photography/06.jpg",
          "location":"Mount Charleston, Nevada"
       },
       {
          "id":7,
          "albumId":3,
-         "image":"https://serenascalzi.github.io/07.jpg",
+         "image":"https://serenascalzi.github.io/photography/07.jpg",
          "location":"Las Vegas, Nevada"
       },
       {
          "id":8,
          "albumId":3,
-         "image":"https://serenascalzi.github.io/08.jpg",
+         "image":"https://serenascalzi.github.io/photography/08.jpg",
          "location":"Las Vegas, Nevada"
       },
       {
          "id":9,
          "albumId":3,
-         "image":"https://serenascalzi.github.io/09.jpg",
+         "image":"https://serenascalzi.github.io/photography/09.jpg",
          "location":"Las Vegas, Nevada"
       },
       {
          "id":10,
          "albumId":4,
-         "image":"https://serenascalzi.github.io/10.jpg",
+         "image":"https://serenascalzi.github.io/photography/10.jpg",
          "location":"Las Vegas, Nevada"
       },
       {
          "id":11,
          "albumId":4,
-         "image":"https://serenascalzi.github.io/11.jpg",
+         "image":"https://serenascalzi.github.io/photography/11.jpg",
          "location":"Las Vegas, Nevada"
       },
       {
          "id":12,
          "albumId":4,
-         "image":"https://serenascalzi.github.io/12.jpg",
+         "image":"https://serenascalzi.github.io/photography/12.jpg",
          "location":"Boulder City, Nevada"
       },
       {
          "id":13,
          "albumId":5,
-         "image":"https://serenascalzi.github.io/13.jpg",
+         "image":"https://serenascalzi.github.io/photography/13.jpg",
          "location":"Redondo Beach, California"
       },
       {
          "id":14,
          "albumId":5,
-         "image":"https://serenascalzi.github.io/14.jpg",
+         "image":"https://serenascalzi.github.io/photography/14.jpg",
          "location":"Los Angeles, California"
       },
       {
          "id":15,
          "albumId":5,
-         "image":"https://serenascalzi.github.io/15.jpg",
+         "image":"https://serenascalzi.github.io/photography/15.jpg",
          "location":"Ventura, California"
       },
       {
          "id":16,
          "albumId":6,
-         "image":"https://serenascalzi.github.io/16.jpg",
+         "image":"https://serenascalzi.github.io/photography/16.jpg",
          "location":"Oxnard, California"
       },
       {
          "id":17,
          "albumId":6,
-         "image":"https://serenascalzi.github.io/17.jpg",
+         "image":"https://serenascalzi.github.io/photography/17.jpg",
          "location":"Henderson, Nevada"
       },
       {
          "id":18,
          "albumId":6,
-         "image":"https://serenascalzi.github.io/18.jpg",
+         "image":"https://serenascalzi.github.io/photography/18.jpg",
          "location":"Santa Monica, California"
       }
    ]
